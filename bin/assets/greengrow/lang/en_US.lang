@@ -1,0 +1,68 @@
+itemGroup.MyCreativeTab=GreenGrow+
+
+item.CannaSeedGreen.name=Cannabis Seeds (Green)
+item.CannaSeedPurple.name=Cannabis Seeds (Purple)
+item.CannaSeedOrange.name=Cannabis Seeds (Orange)
+item.CocaSeed.name=Coca Seeds
+item.Spors.name=Spors
+item.TobaccoSeed.name=Tobacco Seeds
+
+item.GreenCannabis.name=Green Cannabis
+item.PurpleCannabis.name=Purple Cannabis
+item.OrangeCannabis.name=Orange Cannabis
+item.Coca.name=Coca
+item.Shrooms.name=Shrooms
+item.Tobacco.name=Tobacco
+
+item.GreenDriedCannabis.name=Green Dried Cannabis
+item.PurpleDriedCannabis.name=Purple Dried Cannabis
+item.OrangeDriedCannabis.name=Orange Dried Cannabis
+item.MagicMushrooms.name=Magic Mushrooms
+
+item.CannabisLeaves.name=Cannabis Leaves
+item.CannabisStems.name=Cannabis Stems
+item.Resin.name=Resin
+item.Butane.name=Butane
+
+item.Grinder.name=Grinder
+item.SilkScreen.name=Silk Screen
+item.MetalPipe.name=Metal Pipe
+item.MetalCap.name=Metal Cap
+item.BrownieDough.name=Brownie Dough
+item.CookieDough.name=Cookie Dough
+item.Filter.name=Filter
+item.Extractor.name=Extractor
+item.PackedExtractor.name=Packed Extractor
+
+item.FineTrimmings.name=Fine Trimmings
+item.Hash.name=Hash
+item.FineBud.name=Fine Bud
+item.CocainePaste.name=Cocaine Paste
+item.Cocaine.name=Cocaine
+item.OilBase.name=Oil Base
+
+item.Brownie.name=Brownie
+item.Cookie.name=Cookie
+item.Shatter.name=Shatter
+
+
+tile.GreenCannabisPlant.name=Green Cannabis Plant
+tile.GreenCannabisPlantTwo.name=Green Cannabis Plant
+tile.GreenCannabisPlantThree.name=Green Cannabis Plant
+tile.PurpleCannabisPlant.name=Purple Cannabis Plant
+tile.PurpleCannabisPlantTwo.name=Purple Cannabis Plant
+tile.PurpleCannabisPlantThree.name=Purple Cannabis Plant
+tile.OrangeCannabisPlant.name=Orange Cannabis Plant
+tile.OrangeCannabisPlantTwo.name=Orange Cannabis Plant
+tile.OrangeCannabisPlantThree.name=Orange Cannabis Plant
+tile.CocaPlant.name=Coca Plant
+tile.ShroomPlant.name=Shroom Plant
+tile.TobaccoPlant.name=Tobacco Plant
+
+tile.Plastic_Barrel_In_Use.name=Plastic Barrel On
+tile.Plastic_Barrel_Standby.name=Plastic Barrel
+tile.Vacuum.name=Vacuum
+tile.VacuumOn.name=Vacuum On
+tile.DryBench.name=Dry Bench
+tile.DryBenchOn.name=Dry Bench On
+tile.AdvancedDryBench.name=Advanced Dry Bench

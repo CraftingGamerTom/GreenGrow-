@@ -1,0 +1,16 @@
+[
+{
+  "modid": "greengrow",
+  "name": "GreenGrow+",
+  "description": "Mod originally designed for a server modpack. Adds cocaine, tobacco, and multiple types of cannabis into the game. Thanks for all of your support. Enjoy!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.biggamingofficial.com/wiki-greengrow.html",
+  "updateUrl": "http://www.biggamingofficial.com",
+  "authorList": ["CraftingGamerTom"],
+  "credits": "The Forge and FML guys, thanks for building forge.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
